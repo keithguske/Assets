@@ -1,9 +1,13 @@
 fileFormatVersion: 2
 guid: 430721148071d76419e2b1123e9a7c00
-timeCreated: 1445120310
+timeCreated: 1445130771
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: leftfall_0
+    21300002: leftfall_1
+    21300004: leftfall_2
+    21300006: leftfall_3
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,14 +34,14 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -48,7 +52,47 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: leftfall_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 31
+        width: 98
+        height: 146
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leftfall_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 36
+        width: 101
+        height: 146
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leftfall_2
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 39
+        width: 105
+        height: 146
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leftfall_3
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 42
+        width: 78
+        height: 146
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
   assetBundleName: 

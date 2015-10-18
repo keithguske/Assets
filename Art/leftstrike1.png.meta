@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 498321b485bc1524b87b2fd85d131164
-timeCreated: 1445121533
+timeCreated: 1445130713
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -59,7 +59,7 @@ TextureImporter:
         y: 33
         width: 170
         height: 237
-      alignment: 0
+      alignment: 3
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: leftstrike1_1
@@ -69,7 +69,7 @@ TextureImporter:
         y: 54
         width: 209
         height: 216
-      alignment: 0
+      alignment: 3
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: leftstrike1_2
@@ -79,7 +79,7 @@ TextureImporter:
         y: 47
         width: 129
         height: 216
-      alignment: 0
+      alignment: 3
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 

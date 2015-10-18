@@ -1,6 +1,10 @@
 fileFormatVersion: 2
 guid: 430721148071d76419e2b1123e9a7c00
+<<<<<<< HEAD
 timeCreated: 1445130771
+=======
+timeCreated: 1445169792
+>>>>>>> 0ee87d967b299d04ddc2c5a2c35a41e70a3a1a39
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -60,7 +64,11 @@ TextureImporter:
         y: 31
         width: 98
         height: 146
+<<<<<<< HEAD
       alignment: 1
+=======
+      alignment: 6
+>>>>>>> 0ee87d967b299d04ddc2c5a2c35a41e70a3a1a39
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: leftfall_1
@@ -70,7 +78,11 @@ TextureImporter:
         y: 36
         width: 101
         height: 146
+<<<<<<< HEAD
       alignment: 1
+=======
+      alignment: 6
+>>>>>>> 0ee87d967b299d04ddc2c5a2c35a41e70a3a1a39
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: leftfall_2
@@ -80,7 +92,11 @@ TextureImporter:
         y: 39
         width: 105
         height: 146
+<<<<<<< HEAD
       alignment: 1
+=======
+      alignment: 6
+>>>>>>> 0ee87d967b299d04ddc2c5a2c35a41e70a3a1a39
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: leftfall_3
@@ -90,7 +106,11 @@ TextureImporter:
         y: 42
         width: 78
         height: 146
+<<<<<<< HEAD
       alignment: 1
+=======
+      alignment: 6
+>>>>>>> 0ee87d967b299d04ddc2c5a2c35a41e70a3a1a39
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 

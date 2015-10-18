@@ -1,0 +1,85 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Animations.meta
+#	new file:   Animations/Animator.controller
+#	new file:   Animations/Animator.controller.meta
+#	new file:   Animations/bunnyAnim.controller
+#	new file:   Animations/bunnyAnim.controller.meta
+#	new file:   Animations/bunnyanim.anim
+#	new file:   Animations/bunnyanim.anim.meta
+#	new file:   Animations/leftfall.anim
+#	new file:   Animations/leftfall.anim.meta
+#	new file:   Animations/leftfall_0.controller
+#	new file:   Animations/leftfall_0.controller.meta
+#	new file:   Animations/leftmovement1.anim
+#	new file:   Animations/leftmovement1.anim.meta
+#	new file:   Animations/leftmovement2.anim
+#	new file:   Animations/leftmovement2.anim.meta
+#	new file:   Animations/leftmovement3_.anim
+#	new file:   Animations/leftmovement3_.anim.meta
+#	new file:   Animations/leftstrike1_.anim
+#	new file:   Animations/leftstrike1_.anim.meta
+#	new file:   Animations/leftstrike2_.anim
+#	new file:   Animations/leftstrike2_.anim.meta
+#	new file:   Animations/leftstrike3_.anim
+#	new file:   Animations/leftstrike3_.anim.meta
+#	new file:   Art/leftfall.png
+#	new file:   Art/leftfall.png.meta
+#	new file:   Art/leftmovement1.png
+#	new file:   Art/leftmovement1.png.meta
+#	new file:   Art/leftmovement2.png
+#	new file:   Art/leftmovement2.png.meta
+#	new file:   Art/leftmovement3.png
+#	new file:   Art/leftmovement3.png.meta
+#	new file:   Art/leftstrike1.png
+#	new file:   Art/leftstrike1.png.meta
+#	new file:   Art/leftstrike2.png
+#	new file:   Art/leftstrike2.png.meta
+#	new file:   Art/leftstrike3.png
+#	new file:   Art/leftstrike3.png.meta
+#	new file:   Art/main menu-Recovered.png
+#	new file:   Art/main menu-Recovered.png.meta
+#	new file:   Art/rightfall.png
+#	new file:   Art/rightfall.png.meta
+#	new file:   Art/rightmovement1.png
+#	new file:   Art/rightmovement1.png.meta
+#	new file:   Art/rightmovement2.png
+#	new file:   Art/rightmovement2.png.meta
+#	new file:   Art/rightmovement3.png
+#	new file:   Art/rightmovement3.png.meta
+#	new file:   Art/rightstrike1.png
+#	new file:   Art/rightstrike1.png.meta
+#	new file:   Art/rightstrike2.png
+#	new file:   Art/rightstrike2.png.meta
+#	new file:   Art/rightstrike3.png
+#	new file:   Art/rightstrike3.png.meta
+#	new file:   Resources.meta
+#	new file:   Resources/Prefabs.meta
+#	new file:   Resources/Prefabs/Player1.prefab
+#	new file:   Resources/Prefabs/Player1.prefab.meta
+#	new file:   Resources/Prefabs/Player2.prefab
+#	new file:   Resources/Prefabs/Player2.prefab.meta
+#	new file:   Resources/Prefabs/bunny.prefab
+#	new file:   Resources/Prefabs/bunny.prefab.meta
+#	new file:   Scenes.meta
+#	new file:   Scenes/animation_staging.unity
+#	new file:   Scenes/animation_staging.unity.meta
+#	new file:   Scenes/bunnyattack_staging.unity
+#	new file:   Scenes/bunnyattack_staging.unity.meta
+#	renamed:    main_scene.unity -> Scenes/main_scene.unity
+#	renamed:    main_scene.unity.meta -> Scenes/main_scene.unity.meta
+#	new file:   Scripts/Attack.cs
+#	new file:   Scripts/Attack.cs.meta
+#	new file:   Scripts/BunnyBehavior.cs
+#	new file:   Scripts/BunnyBehavior.cs.meta
+#	modified:   Scripts/Player1Movement.cs
+#	modified:   Scripts/Player2Movement.cs
+#	new file:   Scripts/PlayerInfo.cs
+#	new file:   Scripts/PlayerInfo.cs.meta
+#
+
